@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jeskom
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python, Java & Back-End Development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python, Kotlin & General Development
 - 📫 You can reach me on LinkedIn at linkedin.com/in/jonathan-kidd-8b8783326
 
 <!---
